@@ -2508,6 +2508,74 @@ const generateQuote = function() {
         author: " - Mr. Bridgeman"
     },
     {
+        quote: "It’s like a very large person being stuck in the door; It’s not the person pushing himself out, it's the people around him pushing him out.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "\"Ok, this is gonna be a stupid question-\" \"uh-huh.\"",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "\"Wait, is this HCl?\" *sniffs beaker to check*",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "...not that we're trying to make bombs here.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Everyone's least favorite dessert: a marshmellow.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "By the way, 14.7 lbs is about the weight of a full adult cat, so you actually have a full adult cat pushing down on every square inch of your body.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "\"...but I do have a hair dryer.\" *pulls a random hair dryer out of his desk*",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "*spills a can of boiling water on a student* \"ope.\"",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Very oxygen-rich atmosphere. Allegedly what they pump into casinos to keep you awake and gambling.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Those that had their ED's come out, you might realize that you will have a career of paving roads ahead of you.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "I assume you all want to build a nuclear reactor in your backyard in your life sometime.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "...nah we're gonna make this more evil.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "*sips diet coke*",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "You're not special.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "It was my worst class in college... mostly because I didn't show up every Wedensday.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "They forced us to do group work, and I refuse to work with other humans.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "It's been so long since I wrote this an hour ago.",
+        author: " - Mr. Bridgeman"
+    },
+    {
         quote: "\"Before anything... is Brendan in this class?\" (class): \"No.\" \"Whew! We dodged a bullet!\"",
         author: " - Dr. Conlon"
     },
@@ -2617,6 +2685,34 @@ const generateQuote = function() {
     },
     {
         quote: "The first known serial killer in America? It's a great story.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Yeah, he was looking for sex.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Nothing makes you laugh more than a good hangin', apparently.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "They bitch about life as a farmer.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Sooner or later during theri bitching sessions, the granges realized they all wanted the same thing.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "I'm the puppetmaster— Ryan is elected, but I have the real power.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "\"Can we leave early?\" \"No! Absolutely not! Nobody leaves early in this class! Not even me.\" *walks out the room*",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Pullman was a total ass. He called the workers his children, so you can imagine how he treats his actual children.",
         author: " - Dr. Conlon"
     },
     {
@@ -2776,6 +2872,26 @@ const generateQuote = function() {
         author: " - Mrs. Lazar"
     },
     {
+        quote: "Even if my babies were ugly...",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "The three amigos",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "No more poodle business.",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "Cuz where's his soul? Up in the attic.",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "Love... Deaath... Sex... sounds like stuff we can't do-Talk about in class.",
+        author: " - Mrs. Lazar"
+    },
+    {
         quote: "A trial of what? Flamingos eating doughnuts?",
         author: " - Mrs. Piechnik"
     },
@@ -2900,7 +3016,91 @@ const generateQuote = function() {
         author: " - Mr. Farrell"
     },
     {
-        quote: "You bus-thrower-under!",
+        quote: "You bus-thrower-underer!",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "Since most of you listen to that acid-rock garbage.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "PRIVATE!!! PRIVAAAAATE!!! ATRIBUTES ARE PRIVATE!!!",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "Fake news. Fake news. CNN. Fake news.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "I'm a straight shooter, baby.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "A) Get to work.  B) I lock you in a closet.  C) I throw you out of a window.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "By the way, someone left their laptop here two days ago. If no one claims it, I'll sell it on ebay.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "It's apparent that it's a parent.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "I'm flummoxed.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "Nope! Too late! I'm offended.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "You're in the right church, but the wrong pew.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "AGGGHHHHH!!!!!",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "IT DOESN'T TAKE IN AN ARRAYLIST MUJAMBO!!!",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "Just like the red wagon I had when I was younger. That's how I got the dead bodies in to the backyard.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "Ugh. Where did the school board find this guy, and why did they put him in my class?",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "You owe me a lunch.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "YOU DIDN't CALL IT!!!",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "NO FALDERAL!!!",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "\"I'm not gonna be here on Thursday.\" \"Party Thursday.\"",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "\"There you go again. You're like a cancer.\" \"Actually, I'm an aquarius.\"",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "That's my kid, that's my son. Same thing. That's my annoying brat. Same thing.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "Laziness, yes. Abstract laziness.",
         author: " - Mr. Farrell"
     },
     {
