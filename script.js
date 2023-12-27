@@ -2437,7 +2437,7 @@ const generateQuote = function() {
         author: " - Mr. Bridgeman"
     },
     {
-        quote: "Your could replace the moon with a decorative plate with a picture of the moon on it.",
+        quote: "You could replace the moon with a decorative plate with a picture of the moon on it.",
         author: " - Mr. Bridgeman"
     },
     {
