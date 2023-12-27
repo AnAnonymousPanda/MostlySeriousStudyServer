@@ -2720,6 +2720,162 @@ const generateQuote = function() {
         author: " - Aarav"
     },
     {
+        quote: "Even I could become the governor of North Dakota.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Age of consent in NJ is 18, while the age of consent in Alabama is 12.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Marijuana is legal in NJ; you can go to the shops, I've seen Simon there.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Well, the edibles are my favorite.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Matt Gates and the 7 dwarves.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "The distinguished gentlewoman from Tennessee... is a bitch.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "We did not dress up back in that day, but things might’ve changed, that was back in the 1860s.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Mrs. Underwood was teaching the girls how to say no, and Mr. Raymond was teaching the boys to not take no as an answer.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "My doppleganger is Sir Isaac Newton.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "’m trying to find a picture of Sir Isaac Newton, no not Saddam Hussein.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "(Film shows scene of a strip club) \"You're welcome, Simon\"",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Paying teachers more for their abilities would be impossible— I would be making 3.7 million dollars a year.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "This clumsy-ass woman.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "If you can’t stop white guys in rebellion, how do you think you’re gonna stop black guys in rebellion?",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "(To Brendan): \"There better be roses for your mother for dealing with you, get working on that. That poor woman will be a grandmother to your children one day.\"",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Be careful of Irish witches.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "\"I don’t wanna say we were full-on prostitutes, but you give us some money...\" *proceeds to run like a prostitute*",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "And some dead children working in the factories.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "And no, I'm not drawing slaves, I need this job.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "You took on the Taliban all by yourself!",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Women don't really count. No, not like that, you know what I mean.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I used to hate it when my wife didn’t talk to me but now I LOVE it.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I don’t even care what my own kids think of me.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Valentine’s day is just an excuse to get her a gift as if I haven’t given her the greatest gift already— my last name.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I'm sweating bal-",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "treeeeeeeeeeeeeeeeeeeeees",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "This is the stuff you won't hear about from Brus or Paul... Hookers' & Lickers in Dr. Feeley's Class",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "The Battle Royale with Bernie Sanders in the middle.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "(To Brendan): \"It's a good thing you're cute.\"",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I am Jesus incarnate.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Hey Rose, why don't you move over a bit so I don't freeze to death?",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "(Talking about the 19th amendment): \"After reading my daughter’s texts, I’m wondering if that was a good decision. Actually maybe just my daughter shouldn’t have the right to vote. She’s voted once, I’m not sure if that’s a good thing.\"",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I should be an influencer.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "My son would never get married because no sensible woman would ever marry him.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I'm the old man and you're the teenage girl, I should be screaming right now cause I'll go to jail.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Unit period 7 is the exact reason why I think CollegeBoard needs an enema.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Damn, it feels good to be a gangster. Yes I know, I’m a rap god.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "What follows Starbucks? ...yes, white people.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Cuz I'm all about the hood, yo.",
+        author: " - Dr. Feeley"
+    },
+    {
         quote: "And you have to write! Oh no! And you have to think! That doesn't happen!",
         author: " - Mrs. Lazar"
     },
