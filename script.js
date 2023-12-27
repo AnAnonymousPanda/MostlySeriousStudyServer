@@ -2245,7 +2245,7 @@ const generateQuote = function() {
         author: " - Mr. Barry"
     },
     {
-        quote: "Their life is trash, and thier life continues to be trash.",
+        quote: "Their life is trash, and their life continues to be trash.",
         author: " - Mr. Barry"
     },
     {
