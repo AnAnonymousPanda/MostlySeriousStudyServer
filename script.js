@@ -1065,7 +1065,7 @@ const generateQuote = function() {
         author: " - Mr. Schilp"
     },
     {
-        quote: "Look, I'm aware that you need to learn how to start juggling for your futre, but let's try and keep it to a minimum in class.",
+        quote: "Look, I'm aware that you need to learn how to start juggling for your future, but let's try and keep it to a minimum in class.",
         author: " - Mr. Schilp"
     },
     {
