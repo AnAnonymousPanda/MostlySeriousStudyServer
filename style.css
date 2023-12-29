@@ -6,6 +6,8 @@ body
    color: black;
    font-family: "Ariel", sans-serif;
    font-weight: 349}
+.content-text
+  {margin-left: 4px}
 p
   {line-height: 1.35;}
 ul
@@ -410,10 +412,8 @@ body
    color: rgb(245, 245, 245);
    font-family: "Ariel", sans-serif;
    font-weight: 349}
-#text-txt 
-  {margin: 10px;
-   margin-right: 15px;
-   margin-left: 166px}
+.content-text
+  {margin-left: 5px}
 p
   {line-height: 1.35;}
 ul
