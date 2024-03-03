@@ -3136,7 +3136,7 @@ const generateQuote = function() {
         author: " - Mrs. Lazar"
     },
     {
-        quote: "\"When does this thing end?\" \"Eight past.\" \"You mean I have eight more minuts that I'm not gonna use?\"",
+        quote: "\"When does this thing end?\" \"Eight past.\" \"You mean I have eight more minutes that I'm not gonna use?\"",
         author: " - Mrs. Lazar"
     },
     {
