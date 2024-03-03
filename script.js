@@ -1157,7 +1157,7 @@ const generateQuote = function() {
         author: " - Mr. Schilp"
     },
     {
-        quote: "(At textbook collection)\"NEEL!\" \"Wait, I need a moment alone with my textbook\" \"...NEEL, I WILL BE CHARGING YOU FOR PAGES THAT ARE STUCK TOGETHER!!!\"",
+        quote: "(At textbook collection) \"NEEL!\" \"Wait, I need a moment alone with my textbook\" \"...NEEL, I WILL BE CHARGING YOU FOR PAGES THAT ARE STUCK TOGETHER!!!\"",
         author: " - Mr. Schilp"
     },
     {
@@ -1190,6 +1190,22 @@ const generateQuote = function() {
     },
     {
         quote: "This is a traditional Thai child beating stick.",
+        author: " - Mr. Schilp"
+    },
+    {
+        quote: "Everyone can be a prostitute—even orangutans.",
+        author: " - Mr. Schilp"
+    },
+    {
+        quote: "I AM GOING TO BEAT YOU WITH A STICK!!",
+        author: " - Mr. Schilp"
+    },
+    {
+        quote: "Now, I understand that some of you have been dropped one too many times on your heads when you were younger.",
+        author: " - Mr. Schilp"
+    },
+    {
+        quote: "\"What are you looking at?\" \"A screenshot.\" \"Is it appropriate for school?\" \"Yea.\" \"Then it's not worth looking at!\"",
         author: " - Mr. Schilp"
     },
     {
@@ -2576,6 +2592,62 @@ const generateQuote = function() {
         author: " - Mr. Bridgeman"
     },
     {
+        quote: "\"The voltage of this balloon is about 10,000 volts, but if I lick it—\" *graphically licks balloon* \"I'm completely fine.\"",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "You know when they use torture to get info from the bad guy? Well, it never really works since it just makes the person say what you want instead of the truth... nowadays we just use bribery.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Another example is when you have a younger sibling and you rub your feet on the ground and shock them via conduction and call them a dumbass, because emotional torture is just as important as physical torture.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Our definition of ground so far is a magical land where electrons are dancing in the firelight like pixies.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "\"Yea, you can touch it. Nothing bad will happen.\" [four kids proceed to touch it] \"...it might just turn you hand a bit yellow.\"",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "That's the stuff the shoe bomber is trying to ignite on the airplane.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "If you're a little current, short and stout.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "So now you're going to blow that third grader up. Because why not? They probably deserve it.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Like mini cocaine.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "\"Meow.\" *cat paw gesture*",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "One of those obnoxious people who carry around those gallon-sized water bottles.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Or if you believe in conspiracy theories, lasers from space.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "It's the spice girls' dream—two always become one.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Or if you're immature like me, the label on this device is mechanical vibrator.",
+        author: " - Mr. Bridgeman"
+    },
+    {
         quote: "\"Before anything... is Brendan in this class?\" (class): \"No.\" \"Whew! We dodged a bullet!\"",
         author: " - Dr. Conlon"
     },
@@ -2716,6 +2788,30 @@ const generateQuote = function() {
         author: " - Dr. Conlon"
     },
     {
+        quote: "(talking about her son) \"Crappy middle school gym teacher is probably his best bet.\"",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Jackson was a general. This guy was just fat.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "I'm like half a chapter behind... they're also just stupid.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Oooh, let's see if we can ge him (Aarav) suspended!",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "This guy is like 4'2\"",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Since your ass starts vibrating every time something with a grade attached goes into PowerSchool.",
+        author: " - Dr. Conlon"
+    },
+    {
         quote: "(To Dr. Conlon) \"I think you could hit a mean salsa.\"",
         author: " - Aarav"
     },
@@ -2769,6 +2865,30 @@ const generateQuote = function() {
     },
     {
         quote: "This clumsy-ass woman.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Polygamy is when one man can have many wives. Why would anyone want to do tha... wait nevermind.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Pornography back in the day had a story: the pizza man visits the lonely housewife, they talk about global warming, and then they start ripping their clothes off.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Deapthroat by Jackie Lovelace.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "\"Luke, when you go to watch porn, you go to a porn site, and what's the first thing that comes up?\" [Luke shrugs] \"Oh don't play dumb.\"",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "There are 9 women for every man, so the men could just go crazy.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "Can any of you get on the internet? I got kicked off—it was probably the porn sites I was on.",
         author: " - Mr. Raymond"
     },
     {
@@ -2873,6 +2993,58 @@ const generateQuote = function() {
     },
     {
         quote: "Cuz I'm all about the hood, yo.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "There's an elephant in the room. Introduce it. Then kill it.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Dr. Miron is built like a brick outhouse.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "NO DUMMY, GO BACK TO FRESHMAN YEAR!!!",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "The water's making kids gay.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "You made me get up and move. Do you know how angry it makes me to do physical activity?",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "We found the narc in the Jindal family.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "waawawawawawaWAWAawawa",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Fifty cent looks more like a dollar and a half.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "[checks his phone] \"Woah, would you look at that! My nephew got a tattoo. Look, you're completely white trash now.\"",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "What kind of person would I be if I lost my hoes?",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "We did not think the Japanese pilots could bomb ships from so high with their eyes half squinted.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "If you bring home Stormy Daniels, do you think Mom and Dad are going to be happy?",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I'm worth more dead than alive.",
         author: " - Dr. Feeley"
     },
     {
@@ -3257,6 +3429,22 @@ const generateQuote = function() {
     },
     {
         quote: "Laziness, yes. Abstract laziness.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "\"I have a general question.\" \"Well, I have a sergeant question.\"",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "You're not alright, you're half left. If you were all right, you'd tip over.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "If I could put in a number that would make your parents physically beat you, I would.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "El Bandito!",
         author: " - Mr. Farrell"
     },
     {
