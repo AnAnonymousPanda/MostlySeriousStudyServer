@@ -3408,7 +3408,7 @@ const generateQuote = function() {
         author: " - Mr. Farrell"
     },
     {
-        quote: "YOU DIDN't CALL IT!!!",
+        quote: "YOU DIDN'T CALL IT!!!",
         author: " - Mr. Farrell"
     },
     {
