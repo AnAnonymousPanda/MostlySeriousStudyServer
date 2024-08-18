@@ -2648,6 +2648,110 @@ const generateQuote = function() {
         author: " - Mr. Bridgeman"
     },
     {
+        quote: "You can absolutely give up.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "You can’t see around the fortress of solitude of sodium acetate.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Deals are really cheap right now to go on submarine explorations. [it's the day after the oceangate incident]",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "I have this large beaker here and a short king beaker inside of it.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "The mirror’s dumb… it doesn’t know where the focal point is.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "If you want to use a magnifying glass to punish ants for... being ants.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Silver can only ever have a charge of +1... for all of those who asked me that on the last test.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "If you open your car battery... which I highly recommend.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "None of you have seen Breaking Bad since it’s highly inappropriate for children your age—but if you have...",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "You’ll get your acid-base tests back on Friday... you’ll have the whole period to figure out how you screwed that one up.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "You can’t do them collaboratively... at least you’re not supposed to. My understanding is that some of you think of the AP exam as a team sport.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Look! Number!",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Giving the dumb kids more opportunities to screw up.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Sun’s out, gun’s out, amiright? It’s grillin’ and chillin’ season.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "\"Mr Bridgeman, are you fine with all the drawings of you?\" \"...Ehrmm, sex sells\"",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "I like this picture because it highlights how hunky organic chemists are.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "*trips over trash can*",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Colloquially known as backside attack.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "1-Butanol. Or Butan-1-ol if you’re weird.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "I’d say about 2/3 of people get their ice cream to freeze. The other 1/3 just drinks their cold milk.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "What’s my favorite ice cream flavor? My joke is birthday cake flavor, because it makes me feel like a special boy.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "\"You're such a loser.\" \"...Again, good advice for AP testing.\"",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "[The Rangers] \"They're so good.\" \"No they're not.\"",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "You don’t need him e-ver. The league should kick him out of the league.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Imagine you have a box of severed hands and you, of course, want to sort the right hands from the left hands.",
+        author: " - Mr. Bridgeman"
+    },
+    {
+        quote: "Wheeeee",
+        author: " - Mr. Bridgeman"
+    },
+    {
         quote: "\"Before anything... is Brendan in this class?\" (class): \"No.\" \"Whew! We dodged a bullet!\"",
         author: " - Dr. Conlon"
     },
@@ -2812,6 +2916,38 @@ const generateQuote = function() {
         author: " - Dr. Conlon"
     },
     {
+        quote: "Don't use \"application,\" its a trigger word for you guys.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Payback's a bitch.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Did he email me? ...Oh yea he did. I just didn’t read it out of principle.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Can’t swing a dead cat these days without hitting a commie.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "I think she licked it when you were in the bathroom.",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "I may as well shoot myself now!",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "I’m not going to prom with you!",
+        author: " - Dr. Conlon"
+    },
+    {
+        quote: "Like the lesbian boyband?",
+        author: " - Dr. Conlon"
+    },
+    {
         quote: "(To Dr. Conlon) \"I think you could hit a mean salsa.\"",
         author: " - Aarav"
     },
@@ -2852,7 +2988,7 @@ const generateQuote = function() {
         author: " - Mr. Raymond"
     },
     {
-        quote: "’m trying to find a picture of Sir Isaac Newton, no not Saddam Hussein.",
+        quote: "I’m trying to find a picture of Sir Isaac Newton, no not Saddam Hussein.",
         author: " - Mr. Raymond"
     },
     {
@@ -2889,6 +3025,10 @@ const generateQuote = function() {
     },
     {
         quote: "Can any of you get on the internet? I got kicked off—it was probably the porn sites I was on.",
+        author: " - Mr. Raymond"
+    },
+    {
+        quote: "This hole in the ballot was called a chad. There were many different types of chads. There was the hanging chad, where the chad was hanging on one corner. There was the swinging door chad, with two corners hanging on. Finally there was the pregnant chad, where the chad was on all 4 corners but there was clearly a bubble.",
         author: " - Mr. Raymond"
     },
     {
@@ -3045,6 +3185,38 @@ const generateQuote = function() {
     },
     {
         quote: "I'm worth more dead than alive.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Someone managed to break into the Apple TV and there were pictures of Koalas fornicating.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "If you’re gonna start using drugs honey you have to let me know so I can get you into rehab.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "We’re the United States, don’t worry, we’ll start blowing things up soon, just give us a minute.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "Disney must be like what heroin addicts feel like.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I hate this world, I hate it, I hate it, I hate it.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I can’t believe I just got called ‘bro’ by a kid who’s younger than my daughter.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I know it’s surprising that with my body I’m not a regular heroin user.",
+        author: " - Dr. Feeley"
+    },
+    {
+        quote: "I got them into college now it's just a matter of keeping them there.",
         author: " - Dr. Feeley"
     },
     {
@@ -3445,6 +3617,34 @@ const generateQuote = function() {
     },
     {
         quote: "El Bandito!",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "No. It’s bad. It’s pure bad. NO!",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "We’re gonna call you sunk cost for now on.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "Your brain’s out of bounds. Your haircut is out of bounds.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "Your music taste... it's garbage. It's trash.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "I would rather shoot myself than rent that movie again.",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "HAH! YOU’RE WRONG! ACCEPT THE L!!",
+        author: " - Mr. Farrell"
+    },
+    {
+        quote: "I’m a protected class. I’m a senior citizen.",
         author: " - Mr. Farrell"
     },
     {
