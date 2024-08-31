@@ -3392,6 +3392,42 @@ const generateQuote = function() {
         author: " - Mrs. Lazar"
     },
     {
+        quote: "Chubby babies... they make a better ragout.",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "Just don't write anything too weird... eating babies is fine though.",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "I'm a grinch.",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "You know what they say about UChicago? Where fun goes to die. Hey, I'm just preparing you for that.",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "I cook 'em until you could throw one across the room and have it bounce off the wall.",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "*instructions for how to make a soft-boiled egg*",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "I could go and get the monkey.",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "Don't take any pictures or I'll sue you.",
+        author: " - Mrs. Lazar"
+    },
+    {
+        quote: "*seduces stuffed monkey*",
+        author: " - Mrs. Lazar"
+    },
+    {
         quote: "A trial of what? Flamingos eating doughnuts?",
         author: " - Mrs. Piechnik"
     },
